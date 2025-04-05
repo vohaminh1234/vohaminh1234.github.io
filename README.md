@@ -29,8 +29,7 @@
         </div>
 
         <div class="mt-6">
-          <a href="mailto:yourname@email.com" class="text-![Screenshot_2025-04-05-18-37-33-320_com google android youtube](https://github.com/user-attachments/assets/40a986f8-1e8d-4d8f-b57f-28a956fdc5bf)
-blue-600 hover:underline">Gửi email cho mình</a>
+          <a href="mailto:yourname@email.com" class="text-blue-600 hover:underline">Gửi email cho mình</a>
         </div>
       </div>
     </div>
